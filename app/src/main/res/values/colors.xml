@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#fff</color>
+    <color name="trueAnswerColor">#57C69A</color>
+    <color name="falseAnswerColor">#E81B1B</color>
+    <color name="questionColor">#573BB11B</color>
+    <color name="optionColor">#ECEBF4</color>
+    <color name="borderColor">#434141</color>
+    <color name="categoryHistoryColor">#F4C245</color>
+    <color name="categorySportColor">#EF4907</color>
+    <color name="categoryScienceColor">#950BF8</color>
+    <color name="layoutBackGroundColor">#48EDF40F</color>
+    <color name="questionNumberColor">#2444B8</color>
+</resources>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/layoutBackGroundColor"
+    android:orientation="vertical"
+    android:padding="@dimen/padding_edit_text"
+    tools:context=".activities.GameMainPageActivity">
+
+
+    <TextView
+        android:id="@+id/txtQuestionTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rounded_option_button"
+        android:gravity="center"
+        android:padding="@dimen/padding_GameMainPageTittle"
+        android:text=""
+        android:textColor="@color/colorBlack"
+        android:textSize="@dimen/txtSize_app"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="@dimen/padding_layout">
+
+
+        <TextView
+            android:id="@+id/txtQuestionNumber"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/rounded_edit_text"
+            android:padding="@dimen/padding_text"
+            android:text="@string/question_number"
+            android:textColor="@color/questionNumberColor"
+            android:textSize="@dimen/txtSize_app"
+            android:textStyle="bold"></TextView>
+
+
+        <TextView
+            android:id="@+id/txtQuestionPoint"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margin_playerName"
+            android:background="@drawable/rounded_edit_text"
+            android:padding="@dimen/padding_text"
+            android:text="@string/question_point"
+            android:textColor="@color/falseAnswerColor"
+            android:textSize="@dimen/txtSize_app"
+            android:textStyle="bold"></TextView>
+
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/questionIcon"
+        android:layout_width="@dimen/question_icon_width"
+        android:layout_height="@dimen/question_icon_height"
+        android:layout_gravity="right"></ImageView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rounded_question_box_view_text"
+        android:orientation="horizontal"
+        android:padding="@dimen/padding_question_box">
+
+        <ImageView
+            android:layout_width="@dimen/question_mark_width"
+            android:layout_height="@dimen/question_mark_height"
+            android:src="@drawable/questionmark"></ImageView>
+
+        <TextView
+            android:id="@+id/txtQuestion"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textSize="@dimen/txtSize_app" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/padding_question_box">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/rounded_option_button"
+                android:padding="@dimen/padding_option"
+                android:text="@string/option_a"
+                android:textColor="@color/colorBlack"
+                android:textSize="@dimen/txtSize_app"></TextView>
+
+            <Button
+                android:id="@+id/btnOption1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/margin_button"
+                android:layout_weight="1"
+                android:background="@drawable/rounded_option_button"
+                android:text=""
+                android:textSize="@dimen/txtSize_app" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/rounded_option_button"
+                android:padding="@dimen/padding_option"
+                android:text="@string/option_b"
+                android:textColor="@color/colorBlack"
+                android:textSize="@dimen/txtSize_app"></TextView>
+
+            <Button
+                android:id="@+id/btnOption2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/margin_button"
+                android:layout_weight="1"
+                android:background="@drawable/rounded_option_button"
+                android:text=""
+                android:textSize="@dimen/txtSize_app" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/rounded_option_button"
+                android:padding="@dimen/padding_option"
+                android:text="@string/option_c"
+                android:textColor="@color/colorBlack"
+                android:textSize="@dimen/txtSize_app"></TextView>
+
+            <Button
+                android:id="@+id/btnOption3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/margin_button"
+                android:layout_weight="1"
+                android:background="@drawable/rounded_option_button"
+                android:text=""
+                android:textSize="@dimen/txtSize_app" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/rounded_option_button"
+                android:padding="@dimen/padding_option"
+                android:text="@string/option_d"
+                android:textColor="@color/colorBlack"
+                android:textSize="@dimen/txtSize_app"></TextView>
+
+            <Button
+                android:id="@+id/btnOption4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/margin_button"
+                android:layout_weight="1"
+                android:background="@drawable/rounded_option_button"
+                android:text=""
+                android:textSize="@dimen/txtSize_app" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

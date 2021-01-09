@@ -1,0 +1,282 @@
+<resources>
+    <string name="app_name">H5190019_IbrahimMetehanBarutcu</string>
+
+    <string name="player_name">Oyuncu Adı :</string>
+    <string name="enter_name">Adınızı giriniz :</string>
+    <string name="alert_name">Lütfen oyuncu adınızı giriniz.</string>
+    <string name="next_page">İleri</string>
+    <string name="categories">KATEGORİLER</string>
+    <string name="exit_page">Çıkış</string>
+    <string name="exit_app">Uygulamadan Çıkılsın Mı?</string>
+    <string name="exit_title">Çıkış</string>
+    <string name="exit_yes">Evet</string>
+    <string name="exit_no">Hayır</string>
+    <string name="welcome_player">Hoşgeldin,</string>
+    <string name="category_history_title">Tarih</string>
+    <string name="category_science_title">Bilim</string>
+    <string name="category_technology_title">Teknoloji</string>
+    <string name="category_sport_title">Spor</string>
+    <string name="congrats_true_answer">Tebrikler!</string>
+    <string name="next_question">Sıradaki Soruya Geçtiniz</string>
+    <string name="ok_alert">Tamam</string>
+    <string name="end_game">Oyun Bitti Kaybettiniz</string>
+    <string name="turn_to_main_page">Ana Sayfaya Dön</string>
+    <string name="end_game_congrats">Tebrikler Kazandınız!</string>
+    <string name="question_number">Soru:</string>
+    <string name="question_point">Puan:</string>
+    <string name="total_question">/10</string>
+    <string name="option_a">A)</string>
+    <string name="option_b">B)</string>
+    <string name="option_c">C)</string>
+    <string name="option_d">D)</string>
+
+
+    //technology questions
+
+    <string name="technology_question1">Hangisi bir bilgisayar donanımı değildir ? </string>
+    <string name="technology_q1_answer1">Harddisk</string>
+    <string name="technology_q1_answer2">Anakart</string>
+    <string name="technology_q1_answer3">İşlemci</string>
+    <string name="technology_q1_answer4_true">Kulaklık</string>
+
+    <string name="technology_question2">Android otomobil mobil uygulaması hangisidir ? </string>
+    <string name="technology_q2_answer1_true">Android Auto</string>
+    <string name="technology_q2_answer2">CarPlay</string>
+    <string name="technology_q2_answer3">Samsung Health</string>
+    <string name="technology_q2_answer4">Spotify</string>
+
+    <string name="technology_question3">Hangisi bir arama motoru değildir ? </string>
+    <string name="technology_q3_answer1">Yandex</string>
+    <string name="technology_q3_answer2_true">Microsoft Teams</string>
+    <string name="technology_q3_answer3">Google</string>
+    <string name="technology_q3_answer4">Opera</string>
+
+    <string name="technology_question4">Hangisi bir programlama dili değildir ? </string>
+    <string name="technology_q4_answer1">C</string>
+    <string name="technology_q4_answer2">Java</string>
+    <string name="technology_q4_answer3">Python</string>
+    <string name="technology_q4_answer4_true">Html</string>
+
+    <string name="technology_question5">Verilerin depolandığı bölüme ne ad verilir ? </string>
+    <string name="technology_q5_answer1">Sınıf</string>
+    <string name="technology_q5_answer2">Depo</string>
+    <string name="technology_q5_answer3">Garaj</string>
+    <string name="technology_q5_answer4_true">Veri Tabanı</string>
+
+    <string name="technology_question6">Iphone ilk defa hangi tarihte tanıtılmıştır ? </string>
+    <string name="technology_q6_answer1">2009</string>
+    <string name="technology_q6_answer2">2008</string>
+    <string name="technology_q6_answer3_true">2007</string>
+    <string name="technology_q6_answer4">2006</string>
+
+    <string name="technology_question7">Hangisi apple kurucularından değildir ? </string>
+    <string name="technology_q7_answer1">Steve Jobs</string>
+    <string name="technology_q7_answer2">Ronald Wayne</string>
+    <string name="technology_q7_answer3">Steve Wozniak</string>
+    <string name="technology_q7_answer4_true">Bill Gates</string>
+
+    <string name="technology_question8">Hangisi android işletim sistemi değildir ? </string>
+    <string name="technology_q8_answer1">Lollipop</string>
+    <string name="technology_q8_answer2">Kitkat</string>
+    <string name="technology_q8_answer3">Marshmallow</string>
+    <string name="technology_q8_answer4_true">iOS8</string>
+
+    <string name="technology_question9">Programlama dillerinde ekrana ilk hangi metin basılır ? </string>
+    <string name="technology_q9_answer1">deneme</string>
+    <string name="technology_q9_answer2">ilk yazı</string>
+    <string name="technology_q9_answer3_true">merhaba dünya</string>
+    <string name="technology_q9_answer4">selam</string>
+
+    <string name="technology_question10">Hangisi bir photoshop editörüdür ? </string>
+    <string name="technology_q10_answer1_true">adobe photosop</string>
+    <string name="technology_q10_answer2">adobe reader</string>
+    <string name="technology_q10_answer3">Javascript</string>
+    <string name="technology_q10_answer4">Android Studio</string>
+
+    //history questions
+
+    <string name="history_question1">Osmanlının kuruluş tarihi hangisidir ? </string>
+    <string name="history_q1_answer1">1283</string>
+    <string name="history_q1_answer2">1071</string>
+    <string name="history_q1_answer3_true">1299</string>
+    <string name="history_q1_answer4">1923</string>
+
+    <string name="history_question2">Türkiye Cumhuriyetinin kuruluş tarihi hangisidir ? </string>
+    <string name="history_q2_answer1_true">1923</string>
+    <string name="history_q2_answer2">1299</string>
+    <string name="history_q2_answer3">1938</string>
+    <string name="history_q2_answer4">1881</string>
+
+    <string name="history_question3">İkinci dünya savaşında Sovyetler Birliğinin lideri aşağıdakilerden hangisidir? </string>
+    <string name="history_q3_answer1">Adolf Hitler</string>
+    <string name="history_q3_answer2_true">Josef Stalin</string>
+    <string name="history_q3_answer3">Winston Churchill</string>
+    <string name="history_q3_answer4">Benito Mussolini</string>
+
+    <string name="history_question4">İstanbulun fethi hangi tarihte olmuştur ? </string>
+    <string name="history_q4_answer1">1461</string>
+    <string name="history_q4_answer2_true">1453</string>
+    <string name="history_q4_answer3">1354</string>
+    <string name="history_q4_answer4">1454</string>
+
+    <string name="history_question5">Mustafa Kemal Atatürk hangi tarihte doğmuştur ? </string>
+    <string name="history_q5_answer1">1882</string>
+    <string name="history_q5_answer2">1938</string>
+    <string name="history_q5_answer3">1880</string>
+    <string name="history_q5_answer4_true">1881</string>
+
+    <string name="history_question6">İkinci dünya savaşında hangisi Almanların lideriydi ? </string>
+    <string name="history_q6_answer1_true">Adolf Hitler</string>
+    <string name="history_q6_answer2">Angela Merker</string>
+    <string name="history_q6_answer3">Josef Stalin</string>
+    <string name="history_q6_answer4">Winston Churchill</string>
+
+    <string name="history_question7">İlk Düzenli orduyu hangi imparator kurmuştur ? </string>
+    <string name="history_q7_answer1">Atilla</string>
+    <string name="history_q7_answer2">Alp Er Tunga</string>
+    <string name="history_q7_answer3">Alparslan</string>
+    <string name="history_q7_answer4_true">Mete Han</string>
+
+    <string name="history_question8">Aşağıdakilerden hangisi birinci dünya savaşında Osmanlının müttefiğiydi ? </string>
+    <string name="history_q8_answer1">Portekiz</string>
+    <string name="history_q8_answer2">Fransa</string>
+    <string name="history_q8_answer3">İngiltere</string>
+    <string name="history_q8_answer4_true">Bulgaristan</string>
+
+    <string name="history_question9">Türklerin kullandığı ilk alfabe hangisidir ?</string>
+    <string name="history_q9_answer1">Latin Alfabesi</string>
+    <string name="history_q9_answer2">Uygur Alfabesi</string>
+    <string name="history_q9_answer3_true">Göktürk Alfabesi</string>
+    <string name="history_q9_answer4">Arap Alfabesi</string>
+
+    <string name="history_question10">Lozan Antlaşması hangi tarihte imzalanmıştır ? </string>
+    <string name="history_q10_answer1_true">24 Temmuz 1923</string>
+    <string name="history_q10_answer2">23 Nisan 1920</string>
+    <string name="history_q10_answer3">29 Ekim 1923</string>
+    <string name="history_q10_answer4">19 Mayıs 1919</string>
+
+    // sport questions
+
+    <string name="sport_question1">Türkiye Süper Liginde en fazla şampiyon olan takım hangisidir ? </string>
+    <string name="sport_q1_answer1_true">Galatasaray</string>
+    <string name="sport_q1_answer2">Beşiktaş</string>
+    <string name="sport_q1_answer3">Fenerbahçe</string>
+    <string name="sport_q1_answer4">Trabzon</string>
+
+    <string name="sport_question2">Hangisi basketbol terimidir ? </string>
+    <string name="sport_q2_answer1_true">Steps</string>
+    <string name="sport_q2_answer2">Serbest Vuruş</string>
+    <string name="sport_q2_answer3">Taç atışı</string>
+    <string name="sport_q2_answer4">Set</string>
+
+    <string name="sport_question3">İngiltere futbol ligine ne ad verilir ? </string>
+    <string name="sport_q3_answer1">Süper Lig</string>
+    <string name="sport_q3_answer2">Seri A</string>
+    <string name="sport_q3_answer3_true">Premier Lig</string>
+    <string name="sport_q3_answer4">Bundesliga</string>
+
+    <string name="sport_question4">Hangisi milli tenis sporcumuzdur ? </string>
+    <string name="sport_q4_answer1">Olcan Adın</string>
+    <string name="sport_q4_answer2_true">Marsel İlhan</string>
+    <string name="sport_q4_answer3">Neslihan Demir</string>
+    <string name="sport_q4_answer4">Semih Erden</string>
+
+    <string name="sport_question5">2005 yılında İstanbul Atatürk olimpiyat stadyumunda oynanan Şampiyonlar Ligi finalini hangi takım kazanmıştır ? </string>
+    <string name="sport_q5_answer1">Milan</string>
+    <string name="sport_q5_answer2">Real Madrid</string>
+    <string name="sport_q5_answer3">Barcelona</string>
+    <string name="sport_q5_answer4_true">Liverpool</string>
+
+    <string name="sport_question6">Şüper Ligde namağlup tek şampiyon hangisidir ? </string>
+    <string name="sport_q6_answer1_true">Beşiktaş</string>
+    <string name="sport_q6_answer2">Fenerbahçe</string>
+    <string name="sport_q6_answer3">Galatasaray</string>
+    <string name="sport_q6_answer4">Trabzonspor</string>
+
+    <string name="sport_question7">26 Ocak 2020 tarihinde helikopter kazasında hayatını kaybeden Black Mamba lakaplı ünlü basketbolcu kimdir ? </string>
+    <string name="sport_q7_answer1">LeBron James</string>
+    <string name="sport_q7_answer2_true">Kobe Braynt</string>
+    <string name="sport_q7_answer3">Michael Jordan</string>
+    <string name="sport_q7_answer4">Stephen Curry</string>
+
+    <string name="sport_question8">Türkiye milli takımını dünya üçüncüsü yapan teknik direktör kimdir ? </string>
+    <string name="sport_q8_answer1">Fatih Terim</string>
+    <string name="sport_q8_answer2">Abdullah Avcı</string>
+    <string name="sport_q8_answer3">Ersun Yanal</string>
+    <string name="sport_q8_answer4_true">Şenol Güneş</string>
+
+    <string name="sport_question9">2008 Avrupa Futbol Şampiyonasında Hırvatistan karşısında son dakika golünü hangi milli futbolcu kaydetmiştir ?</string>
+    <string name="sport_q9_answer1">Arda Turan</string>
+    <string name="sport_q9_answer2_true">Semih Şentürk</string>
+    <string name="sport_q9_answer3">Nihat Kahveci</string>
+    <string name="sport_q9_answer4">Gökdeniz Karadeniz</string>
+
+    <string name="sport_question10">2019-20 sezonu NBA şampiyonu hangi takımdır? </string>
+    <string name="sport_q10_answer1">Miami Heat</string>
+    <string name="sport_q10_answer2">Houston Rockets</string>
+    <string name="sport_q10_answer3_true">Los Angeles Lakers</string>
+    <string name="sport_q10_answer4">Boston Celtics</string>
+
+    // science questions
+
+    <string name="science_question1">Hangisi bir atom modeli değildir ? </string>
+    <string name="science_q1_answer1">Rutherford</string>
+    <string name="science_q1_answer2">Dalton</string>
+    <string name="science_q1_answer3_true">Newton</string>
+    <string name="science_q1_answer4">Thomson</string>
+
+    <string name="science_question2">Yer çekimini hangi bilim adamı bulmuştur ? </string>
+    <string name="science_q2_answer1_true">Sir Isaac Newton</string>
+    <string name="science_q2_answer2">Albert Einstein</string>
+    <string name="science_q2_answer3">Nicola Tesla</string>
+    <string name="science_q2_answer4">Marie Curie</string>
+
+    <string name="science_question3">Ampulü kim icat etmiştir ? </string>
+    <string name="science_q3_answer1">Sir Isaac Newton</string>
+    <string name="science_q3_answer2_true">Thomas Edison</string>
+    <string name="science_q3_answer3">Albert Einstein</string>
+    <string name="science_q3_answer4">Galileo Galilei</string>
+
+    <string name="science_question4">Suyun kaldırma kuvvetini kim bulmuştur ? </string>
+    <string name="science_q4_answer1">Sir Isaac Newton</string>
+    <string name="science_q4_answer2_true">Archimedes</string>
+    <string name="science_q4_answer3">Albert Einstein</string>
+    <string name="science_q4_answer4">Marie Curie</string>
+
+    <string name="science_question5">Alexander Graham Bell neyi icat etmiştir ? </string>
+    <string name="science_q5_answer1">Ampul</string>
+    <string name="science_q5_answer2">Araba</string>
+    <string name="science_q5_answer3">Bilgisayar</string>
+    <string name="science_q5_answer4_true">Telefon</string>
+
+    <string name="science_question6">Aya ilk ayak basan astronot kimdir ? </string>
+    <string name="science_q6_answer1">Felix Baumgartner</string>
+    <string name="science_q6_answer2">Elon Musk</string>
+    <string name="science_q6_answer3_true">Neil Armstrong</string>
+    <string name="science_q6_answer4">Yuri Gagarin</string>
+
+    <string name="science_question7">Aşağıdaki kuramlardan hangisi Albert Einsteina aittir ? </string>
+    <string name="science_q7_answer1_true">İzafiyet</string>
+    <string name="science_q7_answer2">Big Bang</string>
+    <string name="science_q7_answer3">Hubble</string>
+    <string name="science_q7_answer4">Evrim</string>
+
+    <string name="science_question8">Nükleer santral hangi element ile çalışır ? </string>
+    <string name="science_q8_answer1_true">Uranyum</string>
+    <string name="science_q8_answer2">Magnezyum</string>
+    <string name="science_q8_answer3">Potasyum</string>
+    <string name="science_q8_answer4">Berilyum</string>
+
+    <string name="science_question9">Dünyanın en derin noktası kabul edilen Mariana Çukuru nerede bulunmaktadır ?</string>
+    <string name="science_q9_answer1">Atlas Okyanusu</string>
+    <string name="science_q9_answer2_true">Büyük Okyanus</string>
+    <string name="science_q9_answer3">Hint Okyanusu</string>
+    <string name="science_q9_answer4">Akdeniz</string>
+
+    <string name="science_question10">Uçağın Çalışma prensibi aşağıdakilerden hangisidir? </string>
+    <string name="science_q10_answer1">Hubble Kanunu</string>
+    <string name="science_q10_answer2">Termodinamik</string>
+    <string name="science_q10_answer3_true">Bernoulli Prensibi</string>
+    <string name="science_q10_answer4">Kepler Kanunları</string>
+
+</resources>
